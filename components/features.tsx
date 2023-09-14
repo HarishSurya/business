@@ -46,7 +46,7 @@ export default function Features() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Mobile App Development</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <p className="text-lg text-gray-400 text-center">We help in building high quality Android, iOS, Native Apps which are highly scalable, secure and provie seamless integration with other platforms.</p>
             </div>
 
             {/* 4th item */}
