@@ -15,7 +15,8 @@ export default function Header() {
               </svg>
             </Link>
             </div>
-
+  <div className="font-medium text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out">VIRTUOSO</div>
+          
           {/* Desktop navigation */}
           <nav className="hidden md:flex md:grow">
             {/* Desktop sign in links */}
