@@ -71,8 +71,8 @@ export default function Features() {
                   <path className="stroke-current text-purple-300" d="M22 30h4v12h-4z" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2">Recruitment Resourcing</h4>
+              <p className="text-lg text-gray-400 text-center">We provide Temporary Staffing Services and also assist in Recruitment Process. We also assist in Outsourcing and helping in Permanent Hiring Solutions.</p>
             </div>
 
             {/* 6th item */}
