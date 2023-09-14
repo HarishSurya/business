@@ -32,7 +32,7 @@ export default function Features() {
                 <path className="stroke-current text-purple-300" d="M26 28h12M26 32h12M26 36h5" strokeWidth="2" strokeLinecap="square" />
               </svg>
               <h4 className="h4 mb-2">Web App Development</h4>
-              <p className="text-lg text-gray-400 text-center">We help fast growing companies build award winning web applications. We provide support for your digital presence.</p>
+              <p className="text-lg text-gray-400 text-center">We help fast growing companies build award winning web applications. We provide support for your digital presence by developing applications end to end.</p>
             </div>
 
             {/* 3rd item */}
