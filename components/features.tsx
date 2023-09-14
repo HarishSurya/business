@@ -58,8 +58,8 @@ export default function Features() {
                   <circle className="stroke-current text-purple-300" cx="13" cy="9" r="3" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Instant Features</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <h4 className="h4 mb-2">Consulting Services</h4>
+              <p className="text-lg text-gray-400 text-center">We provide Consulting Services and even help in leveraging Outsourced Project Services with Staffing Solutions that help cater your business requirement.</p>
             </div>
 
             {/* 5th item */}
